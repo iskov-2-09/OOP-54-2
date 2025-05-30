@@ -32,3 +32,4 @@ print(person2.name, "взрослый?", person2.is_adult())  # False
 print(person3.name, "взрослый?", person3.is_adult())  # True
 
 
+
